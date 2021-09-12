@@ -1,0 +1,2140 @@
+{
+    "tweets": [
+        {
+            "created_at": "Wed Aug 05 19:03:19 +0000 2020",
+            "id": 1291087407266373632,
+            "id_str": "1291087407266373632",
+            "full_text": "Beirut\u2019s residents are in shock and mourning after an enormous explosion at the city\u2019s port, killing at least 135 people, injuring more than 4,000 and displacing some 300,000, according to emergency services. https://t.co/8DZCwHce3N https://t.co/7gv6mO9yrX",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                232
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/8DZCwHce3N",
+                        "expanded_url": "https://cnb.cx/2De5ll7",
+                        "display_url": "cnb.cx/2De5ll7",
+                        "indices": [
+                            209,
+                            232
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1291087405441851392,
+                        "id_str": "1291087405441851392",
+                        "indices": [
+                            233,
+                            256
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EerdJ59XoAA_hcB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EerdJ59XoAA_hcB.jpg",
+                        "url": "https://t.co/7gv6mO9yrX",
+                        "display_url": "pic.twitter.com/7gv6mO9yrX",
+                        "expanded_url": "https://twitter.com/CNBC/status/1291087407266373632/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 382,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 740,
+                                "h": 416,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 740,
+                                "h": 416,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1291087405441851392,
+                        "id_str": "1291087405441851392",
+                        "indices": [
+                            233,
+                            256
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EerdJ59XoAA_hcB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EerdJ59XoAA_hcB.jpg",
+                        "url": "https://t.co/7gv6mO9yrX",
+                        "display_url": "pic.twitter.com/7gv6mO9yrX",
+                        "expanded_url": "https://twitter.com/CNBC/status/1291087407266373632/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 382,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 740,
+                                "h": 416,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 740,
+                                "h": 416,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20402945,
+                "id_str": "20402945",
+                "name": "CNBC",
+                "screen_name": "CNBC",
+                "location": "Englewood Cliffs, NJ",
+                "description": "First in business worldwide.",
+                "url": "https://t.co/fdcFKDtOzb",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/fdcFKDtOzb",
+                                "expanded_url": "https://www.cnbc.com/",
+                                "display_url": "cnbc.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3720163,
+                "friends_count": 824,
+                "listed_count": 30518,
+                "created_at": "Mon Feb 09 00:03:41 +0000 2009",
+                "favourites_count": 605,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 370815,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "0D181F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20402945/1533568341",
+                "profile_link_color": "2D648A",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EAEBEA",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:03:16 +0000 2020",
+            "id": 1291087393911648256,
+            "id_str": "1291087393911648256",
+            "full_text": "As a highly explosive chemical, ammonium nitrate is strictly regulated in several countries. Over the past 100 years, there have been several disasters involving it. #LebanonExplosion\n\nhttps://t.co/mxqDhlHT1p",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                208
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LebanonExplosion",
+                        "indices": [
+                            166,
+                            183
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/mxqDhlHT1p",
+                        "expanded_url": "https://www.dw.com/en/what-makes-ammonium-nitrate-so-dangerous/a-54452221",
+                        "display_url": "dw.com/en/what-makes-\u2026",
+                        "indices": [
+                            185,
+                            208
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 6134882,
+                "id_str": "6134882",
+                "name": "DW News",
+                "screen_name": "dwnews",
+                "location": "Germany",
+                "description": "Journalism that's #MadeforMinds. Follow us for global news and analysis from the heart of Europe.",
+                "url": "http://t.co/ML6KVz2uXR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/ML6KVz2uXR",
+                                "expanded_url": "http://www.dw.com",
+                                "display_url": "dw.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 400587,
+                "friends_count": 716,
+                "listed_count": 5912,
+                "created_at": "Fri May 18 11:00:50 +0000 2007",
+                "favourites_count": 3538,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 277567,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F4F2",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/900261211509489666/-1Fu5hU8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/900261211509489666/-1Fu5hU8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/6134882/1573457381",
+                "profile_link_color": "0099FF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E8E8E8",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:03:01 +0000 2020",
+            "id": 1291087329151549440,
+            "id_str": "1291087329151549440",
+            "full_text": "ICM Partners close to signing deal with Writers Guild https://t.co/9YaNwddlSu",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                77
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/9YaNwddlSu",
+                        "expanded_url": "https://www.latimes.com/entertainment-arts/business/story/2020-08-05/icm-partners-close-to-deal-with-wga",
+                        "display_url": "latimes.com/entertainment-\u2026",
+                        "indices": [
+                            54,
+                            77
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 16664681,
+                "id_str": "16664681",
+                "name": "Los Angeles Times",
+                "screen_name": "latimes",
+                "location": "El Segundo, CA",
+                "description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/KW9cHofnW4",
+                "url": "https://t.co/eTksmynSH7",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/eTksmynSH7",
+                                "expanded_url": "http://latimes.com",
+                                "display_url": "latimes.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KW9cHofnW4",
+                                "expanded_url": "http://latimes.com/subscribe",
+                                "display_url": "latimes.com/subscribe",
+                                "indices": [
+                                    64,
+                                    87
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 3652952,
+                "friends_count": 6958,
+                "listed_count": 32299,
+                "created_at": "Thu Oct 09 11:07:42 +0000 2008",
+                "favourites_count": 2600,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 297279,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "615F61",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:02:27 +0000 2020",
+            "id": 1291087186654371841,
+            "id_str": "1291087186654371841",
+            "full_text": "Gogglebox star Lee\u2019s boyfriend Steve calls him the \u2018love of my life\u2019 as they enjoy night out in Cyprus https://t.co/liJtbgvwjh",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                126
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/liJtbgvwjh",
+                        "expanded_url": "https://www.thesun.co.uk/tvandshowbiz/12318550/gogglebox-lee-steve-cyprus-love/?utm_medium=Social&utm_campaign=sunmaintwitter&utm_source=Twitter#Echobox=1596630714",
+                        "display_url": "thesun.co.uk/tvandshowbiz/1\u2026",
+                        "indices": [
+                            103,
+                            126
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 34655603,
+                "id_str": "34655603",
+                "name": "The Sun",
+                "screen_name": "TheSun",
+                "location": "London",
+                "description": "Never miss a story again. News, sport and entertainment, as it happens. Give us a like on Facebook too: https://t.co/VsBj6xwmU8",
+                "url": "https://t.co/0mGfF0ECEo",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/0mGfF0ECEo",
+                                "expanded_url": "http://www.thesun.co.uk",
+                                "display_url": "thesun.co.uk",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/VsBj6xwmU8",
+                                "expanded_url": "http://www.fb.com/thesun",
+                                "display_url": "fb.com/thesun",
+                                "indices": [
+                                    104,
+                                    127
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1768177,
+                "friends_count": 374,
+                "listed_count": 7338,
+                "created_at": "Thu Apr 23 16:23:40 +0000 2009",
+                "favourites_count": 701,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 543522,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "CC0000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1194894421466255361/w4iGC87E_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194894421466255361/w4iGC87E_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/34655603/1502204175",
+                "profile_link_color": "CC3333",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EBE6E8",
+                "profile_text_color": "303030",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:02:26 +0000 2020",
+            "id": 1291087183881932800,
+            "id_str": "1291087183881932800",
+            "full_text": "UK tourists would rather cancel a trip than enter quarantine or wear masks https://t.co/gwa5t3pkbX",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                98
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/gwa5t3pkbX",
+                        "expanded_url": "https://www.theguardian.com/travel/2020/aug/05/uk-tourists-cancel-a-trip-than-enter-quarantine-wear-masks-covid-coronavirus?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter#Echobox=1596651263",
+                        "display_url": "theguardian.com/travel/2020/au\u2026",
+                        "indices": [
+                            75,
+                            98
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 788524,
+                "id_str": "788524",
+                "name": "Guardian news",
+                "screen_name": "guardiannews",
+                "location": "",
+                "description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/KXycIPGfHd",
+                "url": "https://t.co/PJxUC0RWyr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PJxUC0RWyr",
+                                "expanded_url": "http://www.theguardian.com",
+                                "display_url": "theguardian.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KXycIPGfHd",
+                                "expanded_url": "http://gu.com/supporter/guardiannews",
+                                "display_url": "gu.com/supporter/guar\u2026",
+                                "indices": [
+                                    89,
+                                    112
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 3355658,
+                "friends_count": 1249,
+                "listed_count": 32264,
+                "created_at": "Thu Feb 22 12:32:47 +0000 2007",
+                "favourites_count": 12,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 237292,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/788524/1542015319",
+                "profile_link_color": "005789",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "CAE3F3",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:02:25 +0000 2020",
+            "id": 1291087177682755584,
+            "id_str": "1291087177682755584",
+            "full_text": "Facebook's Instagram is officially launching its answer to the hit short video app TikTok \u2014 Instagram Reels \nhttps://t.co/8GjfDufe9O",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                132
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/8GjfDufe9O",
+                        "expanded_url": "https://www.politico.com/news/2020/08/05/facebook-launches-tiktok-clone-instagram-reels-391893",
+                        "display_url": "politico.com/news/2020/08/0\u2026",
+                        "indices": [
+                            109,
+                            132
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 9300262,
+                "id_str": "9300262",
+                "name": "POLITICO",
+                "screen_name": "politico",
+                "location": "Washington, D.C.",
+                "description": "Nobody knows politics like POLITICO. Got a news tip for us? \n\ud83d\udc49 https://t.co/fp9nugJuND",
+                "url": "https://t.co/PPMyQsPlIg",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PPMyQsPlIg",
+                                "expanded_url": "http://politico.com",
+                                "display_url": "politico.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/fp9nugJuND",
+                                "expanded_url": "https://politi.co/2LcOtt5",
+                                "display_url": "politi.co/2LcOtt5",
+                                "indices": [
+                                    63,
+                                    86
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4244583,
+                "friends_count": 1518,
+                "listed_count": 39831,
+                "created_at": "Mon Oct 08 00:29:38 +0000 2007",
+                "favourites_count": 74,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 336274,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E6E6E6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/677177503694237697/y6yTzWn6_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/677177503694237697/y6yTzWn6_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/9300262/1479760803",
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:02:23 +0000 2020",
+            "id": 1291087170963419136,
+            "id_str": "1291087170963419136",
+            "full_text": "RT @CNBCTheExchange: LOVE IS IN THE AIR: Shares of Match Group -- parent of @Tinder, @okcupid and other dating apps -- are soaring as #COVI\u2026",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CNBCTheExchange",
+                        "name": "The Exchange",
+                        "id": 19674395,
+                        "id_str": "19674395",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    },
+                    {
+                        "screen_name": "Tinder",
+                        "name": "Tinder",
+                        "id": 625298957,
+                        "id_str": "625298957",
+                        "indices": [
+                            76,
+                            83
+                        ]
+                    },
+                    {
+                        "screen_name": "okcupid",
+                        "name": "OkCupid",
+                        "id": 53543144,
+                        "id_str": "53543144",
+                        "indices": [
+                            85,
+                            93
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20402945,
+                "id_str": "20402945",
+                "name": "CNBC",
+                "screen_name": "CNBC",
+                "location": "Englewood Cliffs, NJ",
+                "description": "First in business worldwide.",
+                "url": "https://t.co/fdcFKDtOzb",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/fdcFKDtOzb",
+                                "expanded_url": "https://www.cnbc.com/",
+                                "display_url": "cnbc.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3720163,
+                "friends_count": 824,
+                "listed_count": 30518,
+                "created_at": "Mon Feb 09 00:03:41 +0000 2009",
+                "favourites_count": 605,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 370815,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "0D181F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20402945/1533568341",
+                "profile_link_color": "2D648A",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EAEBEA",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Aug 05 18:56:03 +0000 2020",
+                "id": 1291085576469450754,
+                "id_str": "1291085576469450754",
+                "full_text": "LOVE IS IN THE AIR: Shares of Match Group -- parent of @Tinder, @okcupid and other dating apps -- are soaring as #COVID19 quarantines led to a surge in subscriber growth.\n\n@katerogers, @thedomino &amp; @julia boorstin join @KellyCNBC to discuss on \ud83d\udd25RAPID FIRE\ud83d\udd25\n\n$MTCH @CNBC https://t.co/yFBVnfyDJA",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    273
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "COVID19",
+                            "indices": [
+                                113,
+                                121
+                            ]
+                        }
+                    ],
+                    "symbols": [
+                        {
+                            "text": "MTCH",
+                            "indices": [
+                                262,
+                                267
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Tinder",
+                            "name": "Tinder",
+                            "id": 625298957,
+                            "id_str": "625298957",
+                            "indices": [
+                                55,
+                                62
+                            ]
+                        },
+                        {
+                            "screen_name": "okcupid",
+                            "name": "OkCupid",
+                            "id": 53543144,
+                            "id_str": "53543144",
+                            "indices": [
+                                64,
+                                72
+                            ]
+                        },
+                        {
+                            "screen_name": "katerogers",
+                            "name": "Kate Rogers",
+                            "id": 596792665,
+                            "id_str": "596792665",
+                            "indices": [
+                                172,
+                                183
+                            ]
+                        },
+                        {
+                            "screen_name": "TheDomino",
+                            "name": "Dominic Chu",
+                            "id": 37718217,
+                            "id_str": "37718217",
+                            "indices": [
+                                185,
+                                195
+                            ]
+                        },
+                        {
+                            "screen_name": "julia",
+                            "name": "Julia Allison",
+                            "id": 25852836,
+                            "id_str": "25852836",
+                            "indices": [
+                                202,
+                                208
+                            ]
+                        },
+                        {
+                            "screen_name": "KellyCNBC",
+                            "name": "Kelly Evans",
+                            "id": 1164674447506386944,
+                            "id_str": "1164674447506386944",
+                            "indices": [
+                                223,
+                                233
+                            ]
+                        },
+                        {
+                            "screen_name": "CNBC",
+                            "name": "CNBC",
+                            "id": 20402945,
+                            "id_str": "20402945",
+                            "indices": [
+                                268,
+                                273
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1291085429719085058,
+                            "id_str": "1291085429719085058",
+                            "indices": [
+                                274,
+                                297
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EerbfIKXgAYEkyv.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EerbfIKXgAYEkyv.jpg",
+                            "url": "https://t.co/yFBVnfyDJA",
+                            "display_url": "pic.twitter.com/yFBVnfyDJA",
+                            "expanded_url": "https://twitter.com/CNBCTheExchange/status/1291085576469450754/video/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1920,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1291085429719085058,
+                            "id_str": "1291085429719085058",
+                            "indices": [
+                                274,
+                                297
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EerbfIKXgAYEkyv.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EerbfIKXgAYEkyv.jpg",
+                            "url": "https://t.co/yFBVnfyDJA",
+                            "display_url": "pic.twitter.com/yFBVnfyDJA",
+                            "expanded_url": "https://twitter.com/CNBCTheExchange/status/1291085576469450754/video/1",
+                            "type": "video",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1920,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 113814,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1291085429719085058/pl/SXiKvfMPwN66zQhi.m3u8?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 288000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1291085429719085058/vid/480x270/EXPZNHWKdHRlcbiN.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1291085429719085058/vid/640x360/BUltkQkja8GYOdjp.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1291085429719085058/vid/1280x720/RGdWl9azRGcEkwi5.mp4?tag=13"
+                                    }
+                                ]
+                            },
+                            "additional_media_info": {
+                                "embeddable": true,
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 19674395,
+                    "id_str": "19674395",
+                    "name": "The Exchange",
+                    "screen_name": "CNBCTheExchange",
+                    "location": "Englewood Cliffs, NJ",
+                    "description": "The Exchange w/ @KellyCNBC airs weekdays at 1pET, only on @CNBC.",
+                    "url": "http://t.co/FNmWSgQzKm",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/FNmWSgQzKm",
+                                    "expanded_url": "http://CNBC.com",
+                                    "display_url": "CNBC.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 32399,
+                    "friends_count": 341,
+                    "listed_count": 1446,
+                    "created_at": "Wed Jan 28 20:40:15 +0000 2009",
+                    "favourites_count": 83,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 175537,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1081167610920779776/jZKZe8SC_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081167610920779776/jZKZe8SC_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19674395/1560971045",
+                    "profile_link_color": "3473A3",
+                    "profile_sidebar_border_color": "CFCFCF",
+                    "profile_sidebar_fill_color": "E3E3E3",
+                    "profile_text_color": "5E5E5E",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_appealable": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:02:02 +0000 2020",
+            "id": 1291087082539057152,
+            "id_str": "1291087082539057152",
+            "full_text": "Speaker Pelosi says she is \"confident that we will have an agreement\" on coronavirus relief, but notes that the timing of it is uncertain.\nhttps://t.co/RBbwQnhycJ",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                162
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/RBbwQnhycJ",
+                        "expanded_url": "https://on.msnbc.com/2XzIG9Q",
+                        "display_url": "on.msnbc.com/2XzIG9Q",
+                        "indices": [
+                            139,
+                            162
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2836421,
+                "id_str": "2836421",
+                "name": "MSNBC",
+                "screen_name": "MSNBC",
+                "location": "",
+                "description": "The place for in-depth analysis, political commentary and diverse perspectives as the 2020 election nears.",
+                "url": "https://t.co/5TAF6ijWwt",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5TAF6ijWwt",
+                                "expanded_url": "http://msnbc.com",
+                                "display_url": "msnbc.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3500624,
+                "friends_count": 707,
+                "listed_count": 24436,
+                "created_at": "Thu Mar 29 13:15:41 +0000 2007",
+                "favourites_count": 802,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 214672,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1585585008",
+                "profile_link_color": "0CB1C7",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EEEEEE",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 20,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:01:52 +0000 2020",
+            "id": 1291087042563235842,
+            "id_str": "1291087042563235842",
+            "full_text": "Footage captured in the moments before deadly explosions in Beirut show how quickly any semblance of normal life disappeared https://t.co/HkNKux1TaU",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                148
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HkNKux1TaU",
+                        "expanded_url": "https://wapo.st/2XvcnZw",
+                        "display_url": "wapo.st/2XvcnZw",
+                        "indices": [
+                            125,
+                            148
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2467791,
+                "id_str": "2467791",
+                "name": "The Washington Post",
+                "screen_name": "washingtonpost",
+                "location": "Washington, DC",
+                "description": "Democracy Dies in Darkness.",
+                "url": "http://t.co/Hq7hTYkOPg",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Hq7hTYkOPg",
+                                "expanded_url": "http://washingtonpost.com",
+                                "display_url": "washingtonpost.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16175102,
+                "friends_count": 1659,
+                "listed_count": 94345,
+                "created_at": "Tue Mar 27 11:19:39 +0000 2007",
+                "favourites_count": 4435,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 366327,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "333333",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+                "profile_link_color": "0057EC",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DBDBDB",
+                "profile_text_color": "323232",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 15,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:01:49 +0000 2020",
+            "id": 1291087026499059716,
+            "id_str": "1291087026499059716",
+            "full_text": "Delta CEO Ed Bastian on flying safely during COVID-19 \u2014 and his response to passengers who won\u2019t wear masks https://t.co/XHxAZ4iLlv",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                131
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/XHxAZ4iLlv",
+                        "expanded_url": "https://ti.me/3i8oyDp",
+                        "display_url": "ti.me/3i8oyDp",
+                        "indices": [
+                            108,
+                            131
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14293310,
+                "id_str": "14293310",
+                "name": "TIME",
+                "screen_name": "TIME",
+                "location": "",
+                "description": "Breaking news and current events from around the globe. Hosted by TIME staff.",
+                "url": "http://t.co/4aYbUuAeSh",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/4aYbUuAeSh",
+                                "expanded_url": "http://www.time.com",
+                                "display_url": "time.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 17341695,
+                "friends_count": 498,
+                "listed_count": 100163,
+                "created_at": "Thu Apr 03 13:54:30 +0000 2008",
+                "favourites_count": 526,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 353311,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "CC0000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1547650813",
+                "profile_link_color": "DE3333",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "D9D9D9",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 6,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:01:34 +0000 2020",
+            "id": 1291086964175908864,
+            "id_str": "1291086964175908864",
+            "full_text": "Mayor Bill de Blasio pushed out his health commissioner after a series of private disagreements throughout the coronavirus pandemic, saying he needed an \u201catmosphere of unity\" https://t.co/YAe5zn9WcT",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                198
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/YAe5zn9WcT",
+                        "expanded_url": "https://www.politico.com/states/new-york/city-hall/story/2020/08/05/de-blasio-cites-unity-in-pushing-out-top-doctor-but-defends-critical-police-commissioner-1305032",
+                        "display_url": "politico.com/states/new-yor\u2026",
+                        "indices": [
+                            175,
+                            198
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 9300262,
+                "id_str": "9300262",
+                "name": "POLITICO",
+                "screen_name": "politico",
+                "location": "Washington, D.C.",
+                "description": "Nobody knows politics like POLITICO. Got a news tip for us? \n\ud83d\udc49 https://t.co/fp9nugJuND",
+                "url": "https://t.co/PPMyQsPlIg",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PPMyQsPlIg",
+                                "expanded_url": "http://politico.com",
+                                "display_url": "politico.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/fp9nugJuND",
+                                "expanded_url": "https://politi.co/2LcOtt5",
+                                "display_url": "politi.co/2LcOtt5",
+                                "indices": [
+                                    63,
+                                    86
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4244583,
+                "friends_count": 1518,
+                "listed_count": 39831,
+                "created_at": "Mon Oct 08 00:29:38 +0000 2007",
+                "favourites_count": 74,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 336274,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E6E6E6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/677177503694237697/y6yTzWn6_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/677177503694237697/y6yTzWn6_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/9300262/1479760803",
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:01:04 +0000 2020",
+            "id": 1291086840573898753,
+            "id_str": "1291086840573898753",
+            "full_text": "New York City to implement quarantine check points at key entry points https://t.co/dwUy5xZq54 https://t.co/HGnPDB4hM5",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                94
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/dwUy5xZq54",
+                        "expanded_url": "https://reut.rs/3kiQqqf",
+                        "display_url": "reut.rs/3kiQqqf",
+                        "indices": [
+                            71,
+                            94
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1291086839093383169,
+                        "id_str": "1291086839093383169",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Eerco8JX0AEeWRH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Eerco8JX0AEeWRH.jpg",
+                        "url": "https://t.co/HGnPDB4hM5",
+                        "display_url": "pic.twitter.com/HGnPDB4hM5",
+                        "expanded_url": "https://twitter.com/Reuters/status/1291086840573898753/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 683,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 454,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 683,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1291086839093383169,
+                        "id_str": "1291086839093383169",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Eerco8JX0AEeWRH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Eerco8JX0AEeWRH.jpg",
+                        "url": "https://t.co/HGnPDB4hM5",
+                        "display_url": "pic.twitter.com/HGnPDB4hM5",
+                        "expanded_url": "https://twitter.com/Reuters/status/1291086840573898753/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 683,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 454,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 683,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1652541,
+                "id_str": "1652541",
+                "name": "Reuters",
+                "screen_name": "Reuters",
+                "location": "Around the world",
+                "description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+                "url": "http://t.co/BmHxhkm3Mh",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/BmHxhkm3Mh",
+                                "expanded_url": "http://www.reuters.com",
+                                "display_url": "reuters.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 22198897,
+                "friends_count": 1117,
+                "listed_count": 120667,
+                "created_at": "Tue Mar 20 17:46:05 +0000 2007",
+                "favourites_count": 748,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 566173,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "444444",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397",
+                "profile_link_color": "006F97",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "F5F5F5",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 15,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:01:03 +0000 2020",
+            "id": 1291086837545566208,
+            "id_str": "1291086837545566208",
+            "full_text": "Coronavirus cases are surging in Africa sparking growing concern from top public health experts. The continent has reached more than 830,000 cases and more than 14,000 deaths.\n\"It\u2019s just too tough to be asked\u00a0to stay at home in many places\u00a0across this continent\" @ruthmaclean says https://t.co/fj1OKDZqPO",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                280
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ruthmaclean",
+                        "name": "Ruth Maclean",
+                        "id": 21454129,
+                        "id_str": "21454129",
+                        "indices": [
+                            263,
+                            275
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1291086775348273157,
+                        "id_str": "1291086775348273157",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1291086775348273157/img/uBdflUyL_ZbbeIvy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1291086775348273157/img/uBdflUyL_ZbbeIvy.jpg",
+                        "url": "https://t.co/fj1OKDZqPO",
+                        "display_url": "pic.twitter.com/fj1OKDZqPO",
+                        "expanded_url": "https://twitter.com/CBSNews/status/1291086837545566208/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1291086775348273157,
+                        "id_str": "1291086775348273157",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1291086775348273157/img/uBdflUyL_ZbbeIvy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1291086775348273157/img/uBdflUyL_ZbbeIvy.jpg",
+                        "url": "https://t.co/fj1OKDZqPO",
+                        "display_url": "pic.twitter.com/fj1OKDZqPO",
+                        "expanded_url": "https://twitter.com/CBSNews/status/1291086837545566208/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 136504,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1291086775348273157/pl/tZCUcKCt-uw9nuoU.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1291086775348273157/vid/640x360/k4M1BRQniFkQZ_oe.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1291086775348273157/vid/480x270/d_WxQMLWdG08nFgk.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15012486,
+                "id_str": "15012486",
+                "name": "CBS News",
+                "screen_name": "CBSNews",
+                "location": "New York, NY",
+                "description": "Your source for original reporting and trusted news.",
+                "url": "https://t.co/VGut7r2Vg5",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/VGut7r2Vg5",
+                                "expanded_url": "http://CBSNews.com",
+                                "display_url": "CBSNews.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7698901,
+                "friends_count": 521,
+                "listed_count": 50721,
+                "created_at": "Thu Jun 05 00:54:31 +0000 2008",
+                "favourites_count": 298,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 263338,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "D9DADA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15012486/1581519449",
+                "profile_link_color": "B12124",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EAEDF0",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Aug 05 19:01:00 +0000 2020",
+            "id": 1291086824664965124,
+            "id_str": "1291086824664965124",
+            "full_text": "Trader Joe\u2019s has built a devoted following that other brands might only dream of. But it's becoming increasingly clear that Trader Joe\u2019s can't please everyone anymore.\n\n@smasunaga reports: https://t.co/cXfHgqMeou",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                212
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "smasunaga",
+                        "name": "Samantha Masunaga",
+                        "id": 337242615,
+                        "id_str": "337242615",
+                        "indices": [
+                            169,
+                            179
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/cXfHgqMeou",
+                        "expanded_url": "https://www.latimes.com/business/story/2020-08-05/trader-joes-joses-mings-labels-branding-backlash",
+                        "display_url": "latimes.com/business/story\u2026",
+                        "indices": [
+                            189,
+                            212
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 16664681,
+                "id_str": "16664681",
+                "name": "Los Angeles Times",
+                "screen_name": "latimes",
+                "location": "El Segundo, CA",
+                "description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/KW9cHofnW4",
+                "url": "https://t.co/eTksmynSH7",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/eTksmynSH7",
+                                "expanded_url": "http://latimes.com",
+                                "display_url": "latimes.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KW9cHofnW4",
+                                "expanded_url": "http://latimes.com/subscribe",
+                                "display_url": "latimes.com/subscribe",
+                                "indices": [
+                                    64,
+                                    87
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 3652952,
+                "friends_count": 6958,
+                "listed_count": 32299,
+                "created_at": "Thu Oct 09 11:07:42 +0000 2008",
+                "favourites_count": 2600,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 297279,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "615F61",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        }
+    ]
+}

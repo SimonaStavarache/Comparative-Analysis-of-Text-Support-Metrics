@@ -1,0 +1,622 @@
+{
+    "tweets": [
+        {
+            "created_at": "Fri Jul 24 11:05:24 +0000 2020",
+            "id": 1286618478108082177,
+            "id_str": "1286618478108082177",
+            "full_text": "Teenagers found guilty of killing PC Andrew Harper https://t.co/xJBRexKgnf",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                74
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/xJBRexKgnf",
+                        "expanded_url": "https://www.theguardian.com/uk-news/2020/jul/24/teenagers-found-guilty-of-killing-pc-andrew-harper?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1595588723",
+                        "display_url": "theguardian.com/uk-news/2020/j\u2026",
+                        "indices": [
+                            51,
+                            74
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 87818409,
+                "id_str": "87818409",
+                "name": "The Guardian",
+                "screen_name": "guardian",
+                "location": "London",
+                "description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+                "url": "https://t.co/c53pnmnuIT",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/c53pnmnuIT",
+                                "expanded_url": "https://www.theguardian.com",
+                                "display_url": "theguardian.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gWyuUVlObq",
+                                "expanded_url": "https://support.theguardian.com",
+                                "display_url": "support.theguardian.com",
+                                "indices": [
+                                    89,
+                                    112
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 9002856,
+                "friends_count": 1083,
+                "listed_count": 60859,
+                "created_at": "Thu Nov 05 23:49:19 +0000 2009",
+                "favourites_count": 139,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 614033,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1569228354",
+                "profile_link_color": "005789",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "CAE3F3",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jul 24 11:05:03 +0000 2020",
+            "id": 1286618393496424451,
+            "id_str": "1286618393496424451",
+            "full_text": "Water wars: Mekong River another front in U.S.-China rivalry https://t.co/Vzpmbrpe9G https://t.co/R9dUFcpBCx",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                84
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Vzpmbrpe9G",
+                        "expanded_url": "https://www.reuters.com/article/us-mekong-river-diplomacy-insight-idUSKCN24P0K7?taid=5f1ac05e68ab86000188b147&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+                        "display_url": "reuters.com/article/us-mek\u2026",
+                        "indices": [
+                            61,
+                            84
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1286618391948689408,
+                        "id_str": "1286618391948689408",
+                        "indices": [
+                            85,
+                            108
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Edr8nFWWAAA5oWF.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Edr8nFWWAAA5oWF.jpg",
+                        "url": "https://t.co/R9dUFcpBCx",
+                        "display_url": "pic.twitter.com/R9dUFcpBCx",
+                        "expanded_url": "https://twitter.com/Reuters/status/1286618393496424451/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1024,
+                                "h": 683,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 454,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 683,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1286618391948689408,
+                        "id_str": "1286618391948689408",
+                        "indices": [
+                            85,
+                            108
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Edr8nFWWAAA5oWF.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Edr8nFWWAAA5oWF.jpg",
+                        "url": "https://t.co/R9dUFcpBCx",
+                        "display_url": "pic.twitter.com/R9dUFcpBCx",
+                        "expanded_url": "https://twitter.com/Reuters/status/1286618393496424451/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1024,
+                                "h": 683,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 454,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 683,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1652541,
+                "id_str": "1652541",
+                "name": "Reuters",
+                "screen_name": "Reuters",
+                "location": "Around the world",
+                "description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+                "url": "http://t.co/BmHxhkm3Mh",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/BmHxhkm3Mh",
+                                "expanded_url": "http://www.reuters.com",
+                                "display_url": "reuters.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 22156662,
+                "friends_count": 1117,
+                "listed_count": 120358,
+                "created_at": "Tue Mar 20 17:46:05 +0000 2007",
+                "favourites_count": 744,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 560781,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "444444",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397",
+                "profile_link_color": "006F97",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "F5F5F5",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jul 24 11:04:51 +0000 2020",
+            "id": 1286618342565056512,
+            "id_str": "1286618342565056512",
+            "full_text": "Seeking nominations for the executives who are leading the next wave of marketing tech in 2020 https://t.co/MmgYnv55S4",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                118
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/MmgYnv55S4",
+                        "expanded_url": "http://www.businessinsider.com/seeking-nominations-for-the-2020-marketing-tech-leaders-to-know-2020-7",
+                        "display_url": "businessinsider.com/seeking-nomina\u2026",
+                        "indices": [
+                            95,
+                            118
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.businessinsider.com\" rel=\"nofollow\">Business Insider Login</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20562637,
+                "id_str": "20562637",
+                "name": "Business Insider",
+                "screen_name": "businessinsider",
+                "location": "New York, NY",
+                "description": "What you want to know about business. A division of @thisisinsider. Follow us on Facebook, Instagram, and YouTube. Visit our homepage for the day's top stories.",
+                "url": "https://t.co/qJiLYVC7Jx",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/qJiLYVC7Jx",
+                                "expanded_url": "https://www.businessinsider.com/",
+                                "display_url": "businessinsider.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3031398,
+                "friends_count": 299,
+                "listed_count": 31487,
+                "created_at": "Wed Feb 11 01:18:18 +0000 2009",
+                "favourites_count": 1215,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 648189,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "185F7C",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1199017286780231684/P_hQmsjg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199017286780231684/P_hQmsjg_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20562637/1588193428",
+                "profile_link_color": "185F7C",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jul 24 11:04:45 +0000 2020",
+            "id": 1286618315557867520,
+            "id_str": "1286618315557867520",
+            "full_text": "Transport for London asks for second bailout amid \u00a35bn funding crisis https://t.co/ybHj4ktx3a",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                93
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ybHj4ktx3a",
+                        "expanded_url": "https://bit.ly/2OTMjmc",
+                        "display_url": "bit.ly/2OTMjmc",
+                        "indices": [
+                            70,
+                            93
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 38142380,
+                "id_str": "38142380",
+                "name": "Evening Standard",
+                "screen_name": "standardnews",
+                "location": "London",
+                "description": "Breaking news and updates on top stories from the newsdesk of the @EveningStandard \ud83d\udcf0",
+                "url": "http://t.co/OfWZUFsZeL",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/OfWZUFsZeL",
+                                "expanded_url": "http://www.standard.co.uk",
+                                "display_url": "standard.co.uk",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 636731,
+                "friends_count": 885,
+                "listed_count": 3853,
+                "created_at": "Wed May 06 08:47:09 +0000 2009",
+                "favourites_count": 36,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 352845,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/973162573389533185/HOwtAp6Y_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/973162573389533185/HOwtAp6Y_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/38142380/1549874035",
+                "profile_link_color": "303F9F",
+                "profile_sidebar_border_color": "BDDCAD",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Jul 24 11:04:05 +0000 2020",
+            "id": 1286618147127037954,
+            "id_str": "1286618147127037954",
+            "full_text": "Sen. Booker points out that the Senate passed a \"massive\" defense bill this week \n\n\"So we came up with those kind of resources, but when it comes to defending this country from the coronavirus \u2026 it seems like we are getting inaction from Mitch McConnell.\" https://t.co/86Ji0V2gTM",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/86Ji0V2gTM",
+                        "expanded_url": "https://on.msnbc.com/2BrIvpb",
+                        "display_url": "on.msnbc.com/2BrIvpb",
+                        "indices": [
+                            256,
+                            279
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2836421,
+                "id_str": "2836421",
+                "name": "MSNBC",
+                "screen_name": "MSNBC",
+                "location": "",
+                "description": "The place for in-depth analysis, political commentary and informed perspectives in 2020.",
+                "url": "https://t.co/5TAF6ijWwt",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5TAF6ijWwt",
+                                "expanded_url": "http://msnbc.com",
+                                "display_url": "msnbc.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3480432,
+                "friends_count": 701,
+                "listed_count": 24379,
+                "created_at": "Thu Mar 29 13:15:41 +0000 2007",
+                "favourites_count": 800,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 213243,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1585585008",
+                "profile_link_color": "0CB1C7",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EEEEEE",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 20,
+            "favorite_count": 43,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        }
+    ]
+}
